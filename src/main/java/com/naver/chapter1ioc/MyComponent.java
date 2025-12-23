@@ -1,4 +1,4 @@
-package com.naver.chapter2ioc;
+package com.naver.chapter1ioc;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

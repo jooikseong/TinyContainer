@@ -1,4 +1,4 @@
-package com.naver.chapter2ioc;
+package com.naver.chapter1ioc;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;
@@ -47,7 +47,7 @@ public class TinyContainer {
         // 지정된 패키지 경로 아래의 모든 .class 파일들을 재귀적으로 찾아 로드합니다.
         // 현재는 예시를 위해 임시로 등록할 클래스만 반환한다고 가정합니다
         try {
-            return Set.of(Class.forName("com.naver.chapter2ioc.UserService"));
+            return Set.of(Class.forName("com.naver.chapter1ioc.UserService"));
         } catch (ClassNotFoundException e) {
             throw new RuntimeException("클래스를 찾을 수 없습니다." + e);
         }

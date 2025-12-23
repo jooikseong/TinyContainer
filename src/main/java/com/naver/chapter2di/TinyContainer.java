@@ -1,6 +1,6 @@
-package com.naver.chapter1di;
+package com.naver.chapter2di;
 
-import com.naver.chapter2ioc.MyComponent;
+import com.naver.chapter1ioc.MyComponent;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;

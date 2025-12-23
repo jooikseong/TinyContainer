@@ -1,4 +1,4 @@
-package com.naver.chapter1di;
+package com.naver.chapter2di;
 
 public class MainApplication {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.naver.chapter1di;
+package com.naver.chapter2di;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

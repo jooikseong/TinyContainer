@@ -1,4 +1,4 @@
-package com.naver.chapter2ioc;
+package com.naver.chapter1ioc;
 
 public class MainApp {
     public static void main(String[] args) {
