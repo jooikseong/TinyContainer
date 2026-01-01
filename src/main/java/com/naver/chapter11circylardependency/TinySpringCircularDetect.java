@@ -1,4 +1,4 @@
-package com.naver.chatper11circylardependency;
+package com.naver.chapter11circylardependency;
 
 import java.lang.reflect.Constructor;
 import java.util.HashMap;
